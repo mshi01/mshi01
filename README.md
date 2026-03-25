@@ -22,7 +22,7 @@ const mingzhu = {
   pronouns: "She" | "Her",
   code: ["Python", "SQL", "JavaScript", "Java", "HTML", "CSS"],
   askMeAbout: ["full stack software development", "data engineering", "data analysis", "machine learning"],
-  technologies: ["Git", "Spring Boot", "MySQL", "MongoDB", "Node.js", "Express.js", "Flask", "Docker", "React", "PyTorch", "Tableau"],
+  technologies: ["Git", "MySQL", "MongoDB", "Node.js", "Express.js", "Flask", "Docker", "React", "Spring Boot", "PyTorch", "Tableau"],
   hobbies: ["hiking", "trip planning"]
   essential_fuel: ["chocolate🍫"]
 }
