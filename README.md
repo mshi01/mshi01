@@ -16,12 +16,14 @@ Here are some ideas to get you started:
 -->
 
 
-:octocat: A little more about me ... 
+:octocat: A little more about me ... :star2:
 ```
 const mingzhu = {
   pronouns: "She" | "Her",
   code: ["Python", "SQL", "JavaScript", "Java", "HTML", "CSS"],
   askMeAbout: ["full stack software development", "data engineering", "data analysis", "machine learning"],
-  technologies: ["Git", "Spring Boot", "MySQL", "MongoDB", "Node.js", "Express.js", "Flask", "Docker", "React", "PyTorch", "Scikit-learn", "NumPy", "Pandas", "Matplotlib", "Tableau"]
+  technologies: ["Git", "Spring Boot", "MySQL", "MongoDB", "Node.js", "Express.js", "Flask", "Docker", "React", "PyTorch", "Tableau"],
+  hobbies: ["hiking", "trip planning"]
+  essential_fuel: ["chocolate🍫"]
 }
 ```
