@@ -14,10 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+```
 const mshi01 = {
   pronouns: "She" | "Her",
   code: ["Python", "SQL", "JavaScript", "Java", "HTML", "CSS"],
   askMeAbout: ["full stack software development", "data engineering", "data analysis", "machine learning"],
   technologies: ["Git", "Spring Boot", "MySQL", "MongoDB", "Node.js", "Express.js", "Flask", "Docker", "React", "PyTorch", "Scikit-learn", "NumPy", "Pandas", "Matplotlib", "Tableau"]
 }
+```
