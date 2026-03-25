@@ -1,4 +1,4 @@
-## Hi there 👋
+## Aloha  :four_leaf_clover:
 
 <!--
 **mshi01/mshi01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ```
-const mshi01 = {
+:octocat: A little more about me ...
+const mingzhu = {
   pronouns: "She" | "Her",
   code: ["Python", "SQL", "JavaScript", "Java", "HTML", "CSS"],
   askMeAbout: ["full stack software development", "data engineering", "data analysis", "machine learning"],
