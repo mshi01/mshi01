@@ -23,7 +23,7 @@ const mingzhu = {
   code: ["Python", "SQL", "JavaScript", "Java", "HTML", "CSS"],
   askMeAbout: ["full stack software development", "data engineering", "data analysis", "machine learning"],
   technologies: ["Git", "MySQL", "MongoDB", "Node.js", "Express.js", "Flask", "Docker", "React", "Spring Boot", "PyTorch", "Tableau"],
-  hobbies: ["hiking", "trip planning"]
+  hobbies: ["hiking", "trip planning", "listening to music"]
   essential_fuel: ["chocolate🍫"]
 }
 ```
